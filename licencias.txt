@@ -1,0 +1,4 @@
+# Archivo de Licencias Centralizado
+# Formato: UUID=YYYY-MM-DD
+# Ejemplo:
+123e4567-e89b-12d3-a456-426614174000=2030-01-01
