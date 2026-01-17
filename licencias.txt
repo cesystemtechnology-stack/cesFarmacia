@@ -1,4 +1,3 @@
 # Archivo de Licencias Centralizado
-# Formato: UUID=2026-01-17
-# Ejemplo:
-52929302-edf3-4f2d-88c3-077a0941ea62
+# Farmacia kike
+52929302-edf3-4f2d-88c3-077a0941ea62=2026-01-17
