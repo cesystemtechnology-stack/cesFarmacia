@@ -1,12 +1,7 @@
 # Archivo de Licencias Centralizado
-# Farmacia kike
-52929302-edf3-4f2d-88c3-077a0941ea62=2026-01-17
 
 # Floristeria pc empresa
 c5d35558-a3f0-49d1-ba91-56f250182d8c=2026-01-20
-
-#otro
-8059375c-f648-4867-acda-57dff42b2a41=2026-01-21
 
 #Brainer
 d115344a-adc2-45fe-b88b-b5cd3cc19b8e=2026-01-25
