@@ -1,7 +1,7 @@
 # Archivo de Licencias Centralizado
 
 # Floristeria pc empresa
-c5d35558-a3f0-49d1-ba91-56f250182d8c=2026-01-20
+
 
 # prueba pc empresa instalación
 
