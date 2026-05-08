@@ -6,3 +6,7 @@
 # prueba pc empresa instalación
 53d8fc4d-e51d-454a-b949-275c527e0129=2026-05-08
 
+casa
+f3953faa-c1ba-42d8-89cb-79f746aa3e82=2026-05-08
+
+
